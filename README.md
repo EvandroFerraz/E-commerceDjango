@@ -1,2 +1,2 @@
-# ProjetoE-commerce
-Repositório para guardar o projeto E-commerce realizado no curso "Curso de Python 3 do Básico ao Avançado" na Udemy.
+# E-commerceDjango
+Repositório para guardar o projeto de estudo E-commerce realizado no curso "Curso de Python 3 do Básico ao Avançado", da Udemy, com o framework Django.
